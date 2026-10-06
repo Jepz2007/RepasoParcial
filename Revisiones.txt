@@ -1,0 +1,4 @@
+-Cambiar formatos y resolver un inconveniente con el atributo precio para condicionarlo según el tipo de Pizza.
+-Realizar cambios en el tipo de pizza.
+-Cambiar el tipo de retorno de la clase marcarPendiente de la cocina.
+-En la clase cocina, cambiar el metodo marcarPendiente para tener como atributo noOrden que proviene del main.
